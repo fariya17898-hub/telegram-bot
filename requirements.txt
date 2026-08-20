@@ -1,4 +1,4 @@
 python-telegram-bot
-google-generativeai
-Pillow
 flask
+Pillow
+google-generativeai
