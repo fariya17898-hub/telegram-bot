@@ -20,7 +20,7 @@ def run_web():
     web_app.run(host="0.0.0.0", port=port)
 
 # --- 2. CONFIGURATION ---
-BOT_TOKEN = "8319405587:AAF2QA9jGsXobXmS7Ct91V_h9Bd9diDu1JI"
+BOT_TOKEN = "8319405587:AAFWHr8QY47VFxnyemyNll0vllP9rxk4uEs"
 GEMINI_API_KEY = "AQ.Ab8RN6KYc2Ve8E1ejS3A-KE9Bq7wHIWxmpXpEzZa6h9uYgUmF7Q"
 
 genai.configure(api_key=GEMINI_API_KEY)
