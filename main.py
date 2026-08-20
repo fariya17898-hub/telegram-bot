@@ -15,7 +15,7 @@ def home():
 def run_web():
     web_app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
 
-BOT_TOKEN = "8246819713:AAFW0ILOubzVHzqOA2WIPFzaRLUvQR1Uo4w"
+BOT_TOKEN = "8246819713:AAFWoILOubzVHzqOA2WIPFzaRLUvQR1Uo4w"
 GEMINI_API_KEY = "AQ.Ab8RN6KYc2Ve8E1ejS3A-KE9Bq7wHIWxmpXpEzZa6h9uYgUmF7Q"
 
 genai.configure(api_key=GEMINI_API_KEY)
