@@ -1,4 +1,4 @@
-import os, io, asyncio
+import os, io
 from threading import Thread
 from flask import Flask
 from telegram import Update
